@@ -19,14 +19,14 @@ const carouselItems: CarouselItem[] = [
 		id: 1,
 		imageUrl: "/images/landing-page/hero-1.jpg",
 	},
-	{
-		id: 2,
-		imageUrl: "/images/hero-2.jpg",
-	},
-	{
-		id: 3,
-		imageUrl: "/images/hero-3.jpg",
-	},
+	// {
+	// 	id: 2,
+	// 	imageUrl: "/images/hero-2.jpg",
+	// },
+	// {
+	// 	id: 3,
+	// 	imageUrl: "/images/hero-3.jpg",
+	// },
 ];
 
 export default function HeroSwiper() {
